@@ -1,6 +1,6 @@
 # Hi, I'm Kanish Jain 👋
 
-AI Engineering Intern with production experience building full-stack ML-powered products (Django, FastAPI, Next.js). I build autonomous AI agents with LangGraph and Gemini, and I'm a published researcher at Springer ICICC 2026. Currently pursuing B.Tech in Computer Engineering at MPSTME Mumbai (CGPA: 3.69/4.00, graduating May 2027).
+AI Engineering Intern with production experience building full-stack ML-powered products (Django, FastAPI, Next.js). I build autonomous AI agents with LangGraph and LLMs, and I'm a published researcher at Springer ICICC 2026. Currently pursuing B.Tech in Computer Engineering at MPSTME Mumbai.
 
 ---
 

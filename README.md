@@ -6,13 +6,13 @@ AI Engineering Intern with production experience building full-stack ML-powered 
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/kanishjn/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:jainkanish412@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
+<a href="https://leetcode.com/u/kanishjn/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
@@ -66,9 +66,7 @@ AI Engineering Intern with production experience building full-stack ML-powered 
 
 ## 💡 A Thought I Work By
 
-> *"The best systems don't just process data — they understand context, reason under uncertainty, and know when to ask a human."*
->
-> That's why I build AI agents with **human-in-the-loop guardrails**: autonomy where it's safe, oversight where it matters.
+> *"A little progress each day adds up to a big result."*
 
 ---
 

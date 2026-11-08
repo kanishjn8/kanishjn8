@@ -1,80 +1,44 @@
-<!-- Gradient hero: animated SVG, no JavaScript required -->
+
+<!-- Sunset gradient header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:06B6D4&height=220&section=header&text=Kanish%20Jain&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Kanish Jain gradient banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,45:F43F5E,100:9F1239&height=220&section=header&text=Kanish%20Jain&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Kanish Jain gradient banner" />
 </p>
 
 <h1 align="center">Hi, I'm Kanish Jain 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+AI-powered+products+from+idea+to+deployment;Exploring+LLM+agents%2C+RAG%2C+and+reinforcement+learning;Designing+APIs%2C+databases%2C+and+reliable+systems;Always+learning.+Always+shipping." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+AI-powered+products+from+idea+to+deployment;Exploring+LLM+agents%2C+RAG%2C+and+reinforcement+learning;Designing+APIs%2C+databases%2C+and+reliable+systems;Always+learning.+Always+shipping." alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="#featured-projects">Projects</a> &nbsp;•&nbsp;
+  <a href="#about-me">About Me</a> &nbsp;•&nbsp;
+  <a href="#lets-connect">Connect</a> &nbsp;•&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-  <a href="#github-activity">GitHub Activity</a> &nbsp;•&nbsp;
-  <a href="#lets-connect">Let's Connect</a>
+  <a href="#beyond-the-code">Beyond the Code</a>
 </p>
-
-Computer Engineering student passionate about building at the intersection of AI/ML and web development, from training models to shipping full-stack products. Published researcher with hands-on experience turning ideas into production-ready systems.
-
-I'm in my fourth year of **B.Tech Computer Engineering at MPSTME, NMIMS**, based in **Mumbai, India**. I especially enjoy the engineering behind intelligent products: **backend APIs, databases, retrieval systems, AI agents, and scalable software**.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Meta%20OpenEnv-Hackathon%20Finalist-7C3AED?style=for-the-badge" alt="Meta OpenEnv Hackathon Finalist" />
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="300+ LeetCode problems" />
-  <img src="https://img.shields.io/badge/Research-Published-0891B2?style=for-the-badge" alt="Published researcher" />
-</p>
-
-- 🧠 **AI & ML:** RAG, agentic workflows, NLP, vector search, and LLM post-training.
-- ⚙️ **Backend & systems:** FastAPI, Node.js, SQL, concurrency, caching, and containerized services.
-- 🧪 **Currently exploring:** GRPO, LoRA, model evaluation, and making AI systems more reliable.
-- 🎯 **Open to:** Software engineering / backend / applied AI opportunities and research collaborations.
 
 ---
 
-<a name="featured-projects"></a>
-## 🚀 Featured Projects
+<a name="about-me"></a>
+## 👨‍💻 About Me
 
-### 🏙️ [OpenEnv Urban Planner](https://github.com/kanishjn8/openenv-urban-planner) · Reinforcement Learning for LLM Agents
+Computer Engineering student passionate about building at the intersection of **AI/ML, backend engineering, and full-stack development**, from training models to shipping real-world applications. Published researcher with hands-on experience turning ideas into working software.
 
-An interactive **16×16 city-planning environment** where an LLM makes long-horizon decisions while balancing traffic, population, flooding, schools, and budgets. Built around **10 MCP tools** and a multi-objective reward function. Fine-tuned **Qwen2.5-3B-Instruct with GRPO + LoRA on a T4 GPU**.
+I'm currently pursuing my **B.Tech in Computer Engineering at MPSTME, NMIMS**, based in **Mumbai, India**.
 
-[**Explore the environment**](https://huggingface.co/spaces/kanishjn8/openenv-urban-planner) · [**View the code**](https://github.com/kanishjn8/openenv-urban-planner)
+I enjoy building intelligent systems that combine strong engineering foundations with practical applications of machine learning.
 
-### 🔬 [ScholarLens](https://github.com/kanishjn8/ScholarLens) · AI Research Gap Discovery
+<p align="center">
+  <img src="https://img.shields.io/badge/Meta%20OpenEnv-Hackathon%20Finalist-F97316?style=for-the-badge" alt="Meta OpenEnv Hackathon Finalist" />
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="300+ LeetCode problems" />
+  <img src="https://img.shields.io/badge/Research-Published-E11D48?style=for-the-badge" alt="Published researcher" />
+</p>
 
-An evidence-grounded research assistant that collects scientific literature, extracts findings and limitations, and surfaces potential research gaps. Combines **LangGraph, Qdrant, Neo4j, PostgreSQL, FastAPI**, and retrieval-backed generation with citations.
-
-### 📊 [DataAnalyst Agent](https://github.com/kanishjn8/DataAnalyst-Agent) · Ask Questions, Get Answers from Data
-
-A deployed AI analytics workspace for **CSV ingestion, joins, natural-language queries, interactive dashboards, and explainable SQL**. Uses **Gemini for SQL planning, SQLGlot for validation, DuckDB for execution, PostgreSQL for persistence, and Redis for caching**.
-
-[**Try the live app**](https://data-analyst-agent-livid.vercel.app) · [**View the code**](https://github.com/kanishjn8/DataAnalyst-Agent)
-
-### 🔐 [Kuber](https://github.com/kanishjn8/kuber) · Kubernetes Least-Privilege Automation
-
-A verification-driven system for tightening Kubernetes RBAC without breaking legitimate workflows. Preserved functionality in **14/14 evaluation scenarios** while achieving **91.9% verified risk reduction** under the project's evaluation method.
-
-### 🌐 [Multithreaded HTTP Web Server](https://github.com/kanishjn8/multithreaded-web-server) · Systems Programming in C
-
-Built an **HTTP/1.x server in C** using POSIX sockets, a fixed worker-thread pool, bounded queues, nonblocking I/O, monotonic deadlines, and graceful shutdown. Designed to learn how concurrency, backpressure, and resource lifecycles work below web frameworks.
-
-### 🎓 [SyncMind](https://github.com/kanishjn8/SyncMind) · AI-Powered Learning Insights
-
-A full-stack learning dashboard connecting GitHub, YouTube, and Coursera activity to personalized resource and job recommendations. Uses **React, FastAPI, MySQL, embeddings, keyword extraction, and RAG-inspired retrieval**.
-
-<details>
-  <summary><b>✨ More things I've built (click to expand)</b></summary>
-  <br />
-
-  - [**OpenEnv SQL Analyst**](https://github.com/kanishjn8/openenv-sql-analyst) — A reproducible environment for evaluating AI agents on SQL reasoning and business analysis.
-  - [**Continuous Authentication**](https://github.com/kanishjn8/continuous-auth) — Behavioral-biometrics authentication with C++, Python, and risk-based challenges.
-  - [**Paper Trail**](https://github.com/kanishjn8/Paper_Trail) — A university marketplace with Node.js, Express, PostgreSQL, JWT authentication, and ordering workflows.
-  - [**Satellite Image Classification**](https://github.com/kanishjn8/ViT-satellite-Image-recognition) — Exploring computer vision using Vision Transformers.
-
-  [**Browse all repositories**](https://github.com/kanishjn8?tab=repositories)
-</details>
+- 🧠 **AI Engineering:** LLM agents, RAG pipelines, NLP, vector search, and reinforcement learning.
+- ⚙️ **Backend Engineering:** APIs, databases, distributed workflows, caching, and system design.
+- 🔬 **Research:** Exploring machine learning, intelligent systems, and practical AI applications.
+- 🚀 **Currently Exploring:** GRPO, LoRA, model evaluation, and production-ready AI systems.
+- 🎯 **Open To:** Software engineering, backend, applied AI opportunities, and research collaborations.
 
 ---
 
@@ -107,6 +71,7 @@ A full-stack learning dashboard connecting GitHub, YouTube, and Coursera activit
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Backend**
 
@@ -123,7 +88,7 @@ A full-stack learning dashboard connecting GitHub, YouTube, and Coursera activit
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Databases & Data Systems**
 
@@ -134,19 +99,22 @@ A full-stack learning dashboard connecting GitHub, YouTube, and Coursera activit
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![SQLGlot](https://img.shields.io/badge/SQLGlot-334155?style=for-the-badge)
 
 **Machine Learning & AI**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-D97706?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0E7490?style=for-the-badge)
-![LoRA / GRPO](https://img.shields.io/badge/LoRA%20%7C%20GRPO-6D28D9?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-E11D48?style=for-the-badge)
+![GRPO](https://img.shields.io/badge/GRPO-F97316?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-111827?style=for-the-badge)
 
 **Cloud, Infrastructure & Messaging**
 
@@ -155,27 +123,32 @@ A full-stack learning dashboard connecting GitHub, YouTube, and Coursera activit
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Tools**
+**Developer Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-<a name="github-activity"></a>
-## 📈 GitHub Activity
+<a name="beyond-the-code"></a>
+## ✨ Beyond the Code
 
-<p align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=kanishjn8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E2E8F0" alt="Kanish's GitHub statistics" />
-  <img height="175" src="https://streak-stats.demolab.com?user=kanishjn8&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=A78BFA" alt="Kanish's GitHub contribution streak" />
-</p>
+<details>
+  <summary><b>🌱 A little more about me (click to expand)</b></summary>
+  <br />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishjn8&bg_color=0d1117&color=a78bfa&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-</p>
+  - 🧩 I enjoy solving algorithmic challenges and understanding the reasoning behind efficient solutions.
+  - 🏗️ I like going beyond frameworks to understand networking, concurrency, and system architecture.
+  - 🤖 I'm fascinated by AI agents that can reason, use tools, and learn from feedback.
+  - 📚 I believe in learning by building, experimenting, breaking things, and improving them.
+  - 🚀 My goal is to work on impactful software that combines strong engineering with intelligent systems.
+
+</details>
 
 ---
 
@@ -186,9 +159,10 @@ A full-stack learning dashboard connecting GitHub, YouTube, and Coursera activit
 ---
 
 <p align="center">
-  📍 <b>Mumbai, Maharashtra</b> &nbsp;|&nbsp; Open to <b>software engineering, backend & applied AI roles</b> and research collaborations
+  📍 <b>Mumbai, Maharashtra</b> &nbsp;|&nbsp; Open to <b>Software Engineering, Backend & Applied AI Roles</b> and Research Collaborations
 </p>
 
+<!-- Sunset gradient footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:06B6D4&height=110&section=footer" width="100%" alt="Gradient footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9F1239,45:F43F5E,100:FB923C&height=110&section=footer" width="100%" alt="Gradient footer" />
 </p>

@@ -3,18 +3,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FB923C,45:F43F5E,100:9F1239&height=220&section=header&text=Kanish%20Jain&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Systems&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Kanish Jain gradient banner" />
 </p>
-
-<h1 align="center">Hi, I'm Kanish Jain 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+AI-powered+products+from+idea+to+deployment;Exploring+LLM+agents%2C+RAG%2C+and+reinforcement+learning;Designing+APIs%2C+databases%2C+and+reliable+systems;Always+learning.+Always+shipping." alt="Animated introduction" />
-</p>
-
-<p align="center">
-  <a href="#about-me">About Me</a> &nbsp;•&nbsp;
-  <a href="#lets-connect">Connect</a> &nbsp;•&nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-  <a href="#beyond-the-code">Beyond the Code</a>
 </p>
 
 ---
